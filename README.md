@@ -72,7 +72,7 @@ risk-analysis-cw/
 ├── Question2.ipynb             # Portfolio construction and performance evaluation
 ├── Question3.ipynb             # Bond VaR and ES via analytical and simulation methods
 ├── DataQ2.xlsx                 # Data used in portfolio optimisation (Q2)
-├── Risk_Analysis_CW-6_merged.pdf # Final coursework report
+├── Risk_Analysis_Report.pdf # Final coursework report
 ├── CourseWork_QF_MTF_FM_QF_2024_25-3.pdf # Official coursework instructions
 ├── README.md                   # Coursework overview (this file)
 ```
